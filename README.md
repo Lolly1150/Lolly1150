@@ -23,4 +23,4 @@
 
 ### My Link:
 
-<img align="left" alt="My Bot" href="https://lollybot.xyz/invite" width="26px" src="https://i.imgur.com/C2YGRV8.png"/>
+<img align="left" width="26px" src="https://i.imgur.com/C2YGRV8.png"/><p>[My Bot](https://lollybot.xyz/invite)<p>
