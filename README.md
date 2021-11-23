@@ -1,4 +1,4 @@
-# <div align="center">I'm Tomato, mainly a Discord Bot Developer! Working since 2017 on Bots 🚀</div>  
+# <div align="center">I'm Lolly, mainly a Discord Bot Developer!</div>  
   
 ***
 
