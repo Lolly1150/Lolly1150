@@ -24,4 +24,4 @@
 ### My Link:
 
 <img align="left" width="26px" src="https://i.imgur.com/C2YGRV8.png"/><p>[My Bot](https://lollybot.xyz/invite)<p>
-<img align="left" width="26px" src="https://i.imgur.com/C2YGRV8.png"/><p>[My Server](https://discord.gg/8wP3brpYgv)<p>
+<img align="left" width="26px" src="https://i.imgur.com/C2YGRV8.png"/><p>[My Discord Server](https://discord.gg/8wP3brpYgv)<p>
