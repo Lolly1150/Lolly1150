@@ -1,26 +1,33 @@
-# <div align="center">Hey,I'm Lolly, mainly a Discord Bot Developer!</div>  
+# <div align="center">Hey,I'm Lolly!</div>  
   
 ***
 
-- 🔭 I’m currently working on a [**Lolly Bot**](https://lollybot.xyz)
+- 🔭 I’m currently working on a agumented.
   
 
-- 🌱 I’m currently coding in **Javascript** and TypeScript.
+- 🌱 I’m currently coding in TypeScript And Javascript.
   
 
-- ❓  I am in love with coding Discord Bots, I also love helping!.
+- ❓  I am in love with coding web app, I also love helping!.
   
 <br/>
-  
-### Languages and Tools:
+##⚡ Technologies
+- Front-end development <br> <br>
+[![](https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,vue,nuxtjs&perline=3)](https://skillicons.dev)
+- Backend development <br> <br>
+[![](https://skillicons.dev/icons?i=nodejs,express,nestjs&perline=3)](https://skillicons.dev)
+- Databases <br> <br>
+[![](https://skillicons.dev/icons?i=mongodb&perline=3)](https://skillicons.dev)
+- Desktop application development <br> <br>
+[![](https://skillicons.dev/icons?i=electron&perline=3)](https://skillicons.dev)
+- Project Management and CD/CI <br> <br>
+[![](https://skillicons.dev/icons?i=github,git&perline=3)](https://skillicons.dev)
+- Text Editors/IDEs <br> <br>
+[![](https://skillicons.dev/icons?i=vscode&perline=3)](https://skillicons.dev)
+- Social
+[![](https://skillicons.dev/icons?i=discord,twitter&perline=3)](https://skillicons.dev)
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
-<img align="left" alt="ts" width="26px" src="https://i.imgur.com/vSgFULR.png" />
-<img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
-<img align="left" alt="mongodb" width="26px" src="https://imgur.com/xN5cFRr.png" /> 
-<img align="left" alt="photoshop" width="26px" src="https://i.imgur.com/OC1RcS5.jpg" /> <br />
+<a href="https://app.daily.dev/lolly1150"><img src="https://api.daily.dev/devcards/df0f8a7aca2f4df0b08676aa30c87e45.png?r=25c" width="400" alt="Lolly's Dev Card"/></a>
 
-### My Link:
-
-<img align="left" width="26px" src="https://i.imgur.com/C2YGRV8.png"/><p>[My Bot](https://lollybot.xyz/invite)<p>
-<img align="left" width="26px" src="https://i.imgur.com/C2YGRV8.png"/><p>[My Discord Server](https://discord.gg/8wP3brpYgv)<p>
+Contact Me:
+[Discord](https://discord.com/users/820726341976588340)
