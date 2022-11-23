@@ -12,7 +12,7 @@
   
 <br/>
 
-##⚡ Technologies
+ ## ⚡Technologies
 - Front-end development <br> <br>
 [![](https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,vue,nuxtjs&perline=3)](https://skillicons.dev)
 - Backend development <br> <br>
@@ -25,7 +25,7 @@
 [![](https://skillicons.dev/icons?i=github,git&perline=3)](https://skillicons.dev)
 - Text Editors/IDEs <br> <br>
 [![](https://skillicons.dev/icons?i=vscode&perline=3)](https://skillicons.dev)
-- Social
+- Social <br> <br>
 [![](https://skillicons.dev/icons?i=discord,twitter&perline=3)](https://skillicons.dev)
 
 <a href="https://app.daily.dev/lolly1150"><img src="https://api.daily.dev/devcards/df0f8a7aca2f4df0b08676aa30c87e45.png?r=25c" width="400" alt="Lolly's Dev Card"/></a>
