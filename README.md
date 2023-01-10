@@ -18,7 +18,7 @@
 - Backend development <br> <br>
 [![](https://skillicons.dev/icons?i=nodejs,express,nestjs&perline=3)](https://skillicons.dev)
 - Databases <br> <br>
-[![](https://skillicons.dev/icons?i=mongodb&perline=3)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=mongodb,postgres,prisma&perline=3)](https://skillicons.dev)
 - Desktop application development <br> <br>
 [![](https://skillicons.dev/icons?i=electron&perline=3)](https://skillicons.dev)
 - Project Management and CD/CI <br> <br>
