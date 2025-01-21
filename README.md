@@ -2,14 +2,8 @@
   
 ***
 
-- 🔭 I’m currently working on a agumented.
-  
-
-- 🌱 I’m currently coding in TypeScript And Javascript.
-  
-
-- ❓  I am in love with coding web app, I also love helping!.
-  
+- 🔭 I’m currently working in DeluxHost.
+    
 <br/>
 
  ## ⚡Technologies
